@@ -1,3 +1,7 @@
 Bread
 Milk
 Cereal
+
+Ice Cream
+Cookies
+Chocoalate
